@@ -8,3 +8,4 @@ duckduckgo-search
 openai
 gunicorn
 flask-cors
+langchain-community
